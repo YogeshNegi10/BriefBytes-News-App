@@ -22,7 +22,7 @@ const App = () => {
     setLoading(true);
     let url = ` https://newsapi.org/v2/everything?q=${
       searchData ? searchData : catogery.toLowerCase()
-    }&language=${lang}&latest&apiKey=${import.meta.env.VITE_SECRET_KEY}`;
+    }&language=${lang}&latest&apiKey="1075701ed6e94515be8e5302a55b1af7"`;
 
     try {
       const response = await fetch(url);
@@ -42,9 +42,8 @@ const App = () => {
     }
 
     setLoading(true);
-    let url = `https://newsapi.org/v2/everything?q=${searchData}&language=${lang}&latest&apiKey=${
-      import.meta.env.VITE_SECRET_KEY
-    }`;
+    let url = `https://newsapi.org/v2/everything?q=${searchData}&language=${lang}&latest&apiKey="1075701ed6e94515be8e5302a55b1af7"
+    `;
 
     try {
       const response = await fetch(url);
