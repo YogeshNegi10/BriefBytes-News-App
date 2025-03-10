@@ -1,3 +1,2 @@
-Unfortunatly Its Not Working on google Chrome !
 
-![BriefBytes](https://github.com/YogeshNegi10/BriefBytes-News-React-App/assets/169161916/7eb6fdba-f864-4b49-9cdd-da2618732c13)
+![Screenshot (12)](https://github.com/user-attachments/assets/43e7934c-e122-46a5-b1ad-76824127dd5d)
