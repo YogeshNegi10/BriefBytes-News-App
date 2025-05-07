@@ -1,5 +1,5 @@
-Maybe Api will not work beacuse of NewsApi policy !
-But You can Download The Project and Run it in your localHost Just Dont forget to put your Newsapi Secretkey !
+**Maybe Api will not work beacuse of NewsApi policy !
+But You can Download The Project and Run it in your localHost Just Dont forget to put your Newsapi Secretkey !**
 
 
 📰 **BriefBytes App – Project Highlights**
